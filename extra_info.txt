@@ -1,0 +1,2 @@
+The class UserInputValidator checks a list of strings for valid positive integers. It has a method validate_positive_integer that returns a list of valid positive integers from the input list.
+the validation message confirms that the postive integers shows the postive integers that were in the list of strings.
